@@ -1,0 +1,4 @@
+C:\Users\Aluno_2\Desktop\PortableGit\exercicios-0603\exercicioListCsharp4\exercicioListCsharp5\exercicioListCsharp5\bin\Debug\exercicioListCsharp5.exe
+C:\Users\Aluno_2\Desktop\PortableGit\exercicios-0603\exercicioListCsharp4\exercicioListCsharp5\exercicioListCsharp5\bin\Debug\exercicioListCsharp5.pdb
+C:\Users\Aluno_2\Desktop\PortableGit\exercicios-0603\exercicioListCsharp4\exercicioListCsharp5\exercicioListCsharp5\obj\x86\Debug\exercicioListCsharp5.exe
+C:\Users\Aluno_2\Desktop\PortableGit\exercicios-0603\exercicioListCsharp4\exercicioListCsharp5\exercicioListCsharp5\obj\x86\Debug\exercicioListCsharp5.pdb

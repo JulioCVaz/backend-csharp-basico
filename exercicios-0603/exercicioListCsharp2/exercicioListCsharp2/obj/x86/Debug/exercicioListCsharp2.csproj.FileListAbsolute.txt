@@ -1,0 +1,4 @@
+C:\Users\Aluno_2\Desktop\PortableGit\backend-csharp-basico\exercicioListCsharp2\exercicioListCsharp2\bin\Debug\exercicioListCsharp2.exe
+C:\Users\Aluno_2\Desktop\PortableGit\backend-csharp-basico\exercicioListCsharp2\exercicioListCsharp2\bin\Debug\exercicioListCsharp2.pdb
+C:\Users\Aluno_2\Desktop\PortableGit\backend-csharp-basico\exercicioListCsharp2\exercicioListCsharp2\obj\x86\Debug\exercicioListCsharp2.exe
+C:\Users\Aluno_2\Desktop\PortableGit\backend-csharp-basico\exercicioListCsharp2\exercicioListCsharp2\obj\x86\Debug\exercicioListCsharp2.pdb
