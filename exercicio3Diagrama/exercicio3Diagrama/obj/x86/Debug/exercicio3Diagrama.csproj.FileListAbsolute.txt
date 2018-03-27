@@ -1,0 +1,6 @@
+C:\Users\Julio Vaz\Downloads\exercicio3Diagrama\exercicio3Diagrama\obj\x86\Debug\exercicio3Diagrama.csprojResolveAssemblyReference.cache
+C:\Users\Julio Vaz\Downloads\exercicio3Diagrama\exercicio3Diagrama\obj\x86\Debug\exercicio3Diagrama.csproj.CoreCompileInputs.cache
+C:\Users\Julio Vaz\Downloads\exercicio3Diagrama\exercicio3Diagrama\bin\Debug\exercicio3Diagrama.exe
+C:\Users\Julio Vaz\Downloads\exercicio3Diagrama\exercicio3Diagrama\bin\Debug\exercicio3Diagrama.pdb
+C:\Users\Julio Vaz\Downloads\exercicio3Diagrama\exercicio3Diagrama\obj\x86\Debug\exercicio3Diagrama.exe
+C:\Users\Julio Vaz\Downloads\exercicio3Diagrama\exercicio3Diagrama\obj\x86\Debug\exercicio3Diagrama.pdb
