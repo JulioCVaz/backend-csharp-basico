@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using System.Data.OleDb;
+
+namespace WindowsFormsApplication1
+{
+    public partial class Form1 : Form
+    {
+
+        string strConn = @"Provider=Microsoft.ACE.OLEDB.12.0;
+                Data Source=|DataDirectory|\bdteste.accdb;Persist Security Info=False;";
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            OleDbConnection conn = new OleDbConnection(strConn);
+            conn.Open();
+            MessageBox.Show(conn.ToString());
+        }
+    }
+}
