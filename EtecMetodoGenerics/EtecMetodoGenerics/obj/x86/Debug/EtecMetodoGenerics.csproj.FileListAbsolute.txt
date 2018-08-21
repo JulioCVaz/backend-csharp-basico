@@ -1,0 +1,26 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\EtecMetodoGenerics.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\EtecMetodoGenerics.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\Classes.dll
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\Classes.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Documentos.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Pedidos.resources
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\EtecMetodoGenerics.exe
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\EtecMetodoGenerics.pdb
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\Classes.dll
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\bin\Debug\Classes.pdb
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.CadastrarCliente.resources
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Documentos.resources
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Form1.resources
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Pedidos.resources
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.Properties.Resources.resources
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.exe
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.pdb
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.CadastroDePedidos.resources

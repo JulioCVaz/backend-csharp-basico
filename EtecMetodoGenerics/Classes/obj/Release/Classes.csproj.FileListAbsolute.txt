@@ -1,0 +1,8 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\documents\visual studio 2010\Projects\EtecMetodoGenerics\Classes\obj\Release\Classes.pdb
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\Desktop\EtecMetodoGenerics\Classes\obj\Release\Classes.pdb
