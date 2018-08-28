@@ -1,0 +1,7 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\bin\Debug\teste.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\bin\Debug\teste.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\obj\x86\Debug\teste.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\obj\x86\Debug\teste.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\obj\x86\Debug\teste.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\teste\obj\x86\Debug\teste.Medico.resources

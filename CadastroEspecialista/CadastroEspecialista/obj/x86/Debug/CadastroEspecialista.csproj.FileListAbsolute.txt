@@ -1,0 +1,7 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\bin\Debug\CadastroEspecialista.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\bin\Debug\CadastroEspecialista.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.cadastroMedico.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.pdb
