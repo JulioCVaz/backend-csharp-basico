@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\bin\Debug\CidadesInteligentes.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\bin\Debug\CidadesInteligentes.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.main.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.pdb
