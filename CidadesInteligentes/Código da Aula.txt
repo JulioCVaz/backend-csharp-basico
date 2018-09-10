@@ -1,0 +1,28 @@
+        private void Pessoas_Load(object sender, EventArgs e)
+        {
+            retornarPessoas();
+
+        }
+
+      
+
+        private void retornarPessoas()
+        {
+            SqlConnection conexao = new SqlConnection();
+            conexao.ConnectionString = "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=CidadeInteligente;Data Source=LAB-06-21";
+            conexao.Open();
+
+            string comandoSQL = "SELECT cdPessoa 'Código Pessoa', nmPessoa 'Nome da Pessoa' FROM TB_PESSOAS";
+
+            SqlCommand sqlCommand = new SqlCommand(comandoSQL, conexao);
+
+            SqlDataAdapter sda = new SqlDataAdapter(sqlCommand);
+            DataTable dt = new DataTable();
+
+            sda.Fill(dt);
+
+            grvPessoa.DataSource = dt;
+
+            conexao.Close();
+
+        }
