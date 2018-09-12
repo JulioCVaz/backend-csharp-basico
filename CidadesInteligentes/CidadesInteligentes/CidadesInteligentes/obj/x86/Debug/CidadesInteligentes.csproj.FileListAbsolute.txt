@@ -5,3 +5,5 @@ C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesIntelige
 C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.csproj.GenerateResource.Cache
 C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.exe
 C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.pdb
+C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.exe
+C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.pdb

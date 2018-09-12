@@ -52,10 +52,28 @@
     <Compile Include="main.Designer.cs">
       <DependentUpon>main.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pessoa.Designer.cs">
+      <DependentUpon>Pessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PessoaDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PessoaDocumento.Designer.cs">
+      <DependentUpon>PessoaDocumento.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="main.resx">
       <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pessoa.resx">
+      <DependentUpon>Pessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PessoaDocumento.resx">
+      <DependentUpon>PessoaDocumento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

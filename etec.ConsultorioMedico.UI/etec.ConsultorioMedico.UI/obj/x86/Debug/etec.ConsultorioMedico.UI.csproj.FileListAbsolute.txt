@@ -9,3 +9,5 @@ C:\Users\Aluno\AppData\Local\Temporary Projects\etec.ConsultorioMedico.UI\obj\x8
 C:\Users\Aluno\AppData\Local\Temporary Projects\etec.ConsultorioMedico.UI\obj\x86\Debug\etec.ConsultorioMedico.UI.CadastroEleitor.resources
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec.ConsultorioMedico.UI\etec.ConsultorioMedico.UI\obj\x86\Debug\etec.ConsultorioMedico.UI.exe
 C:\Users\Aluno\Documents\Visual Studio 2010\Projects\etec.ConsultorioMedico.UI\etec.ConsultorioMedico.UI\obj\x86\Debug\etec.ConsultorioMedico.UI.pdb
+C:\Users\Julio Vaz\Desktop\backend-csharp-basico\etec.ConsultorioMedico.UI\etec.ConsultorioMedico.UI\obj\x86\Debug\etec.ConsultorioMedico.UI.exe
+C:\Users\Julio Vaz\Desktop\backend-csharp-basico\etec.ConsultorioMedico.UI\etec.ConsultorioMedico.UI\obj\x86\Debug\etec.ConsultorioMedico.UI.pdb
