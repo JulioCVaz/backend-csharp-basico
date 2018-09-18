@@ -7,3 +7,5 @@ C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesIntelige
 C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.pdb
 C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.exe
 C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.Pessoa.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.PessoaDocumento.resources

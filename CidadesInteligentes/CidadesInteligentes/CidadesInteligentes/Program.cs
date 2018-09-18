@@ -15,7 +15,7 @@ namespace CidadesInteligentes
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new main());
+            Application.Run(new Pessoa());
         }
     }
 }
