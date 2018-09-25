@@ -9,3 +9,6 @@ C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInte
 C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.pdb
 C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.Pessoa.resources
 C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.PessoaDocumento.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.Cliente.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CidadesInteligentes\CidadesInteligentes\CidadesInteligentes\obj\x86\Debug\CidadesInteligentes.Funcionario.resources

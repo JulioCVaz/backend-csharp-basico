@@ -15,5 +15,22 @@ namespace CidadesInteligentes
         {
             InitializeComponent();
         }
+
+        private void btnAtualizar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtNomeDoc.Text = "";
+            txtEnderecoDoc.Text = "";
+            cmEstadoDoc.Text = "";
+            txtDataNascDoc.Text = "";
+            txtRG.Text = "";
+            txtCPF.Text = "";
+            txtCTPS.Text = "";
+            txtCNH.Text = "";
+        }
     }
 }

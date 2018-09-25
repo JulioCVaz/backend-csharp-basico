@@ -33,14 +33,16 @@ WHERE nmEstado = @nmEstado
 
 sp_RetornaEstado 'São Paulo';
 
-INSERT INTO pessoa(nome_pessoa, endereco_pessoa, estadoc_pessoa, datanasc_pessoa) VALUES ('Administrador', 'admin de haia, 500', 1, '17-09-2018')
+SELECT * from pessoa;
+
+INSERT INTO pessoa(nome_pessoa, endereco_pessoa, estadocivil, datanasc_pessoa) VALUES ('Administrador', 'admin de haia, 500', 'Masculino', '17-09-2018');
 
 -- criar table pessoa
 CREATE TABLE pessoa(
 	id_pessoa INTEGER NOT NULL PRIMARY KEY IDENTITY(1,1),
 	nome_pessoa VARCHAR(255),
 	endereco_pessoa VARCHAR(500),
-	estadoc_pessoa integer NOT NULL FOREIGN KEY REFERENCES pessoa(id_pessoa),
+	estadocivil varchar(255) NOT NULL,
 	datanasc_pessoa datetime
 )
 -- criar table pessoa documento

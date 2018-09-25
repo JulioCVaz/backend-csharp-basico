@@ -25,8 +25,8 @@ namespace CidadesInteligentes
             
             SqlConnection conexao = new SqlConnection();
 
-            conexao.ConnectionString = "Password=info211;Persist Security Info=True;User ID=sa;Initial Catalog=cidadeinteligente;Data Source=LAB-08-05";
-
+            conexao.ConnectionString = "Password=info211;Persist Security Info=True;User ID=sa;Initial Catalog=cidadeinteligente;Data Source=LAB-07-05";
+ 
             conexao.Open();
 
             string comandoSQL = string.Concat("SELECT user_login, password_login FROM loginUser WHERE user_login='",login,"'");

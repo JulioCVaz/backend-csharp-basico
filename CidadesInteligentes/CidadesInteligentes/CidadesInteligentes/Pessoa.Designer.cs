@@ -39,11 +39,11 @@
             this.masketData = new System.Windows.Forms.MaskedTextBox();
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.btnLimparCampos = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dtgPessoa = new System.Windows.Forms.DataGridView();
             this.label4 = new System.Windows.Forms.Label();
             this.lblCidade = new System.Windows.Forms.Label();
             this.cbCidade = new System.Windows.Forms.ComboBox();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgPessoa)).BeginInit();
             this.SuspendLayout();
             // 
             // lblTitulo
@@ -150,13 +150,14 @@
             this.btnLimparCampos.UseVisualStyleBackColor = false;
             this.btnLimparCampos.Click += new System.EventHandler(this.btnLimparCampos_Click);
             // 
-            // dataGridView1
+            // dtgPessoa
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(436, 75);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(458, 205);
-            this.dataGridView1.TabIndex = 11;
+            this.dtgPessoa.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgPessoa.Location = new System.Drawing.Point(436, 75);
+            this.dtgPessoa.Name = "dtgPessoa";
+            this.dtgPessoa.Size = new System.Drawing.Size(458, 205);
+            this.dtgPessoa.TabIndex = 11;
+            this.dtgPessoa.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // label4
             // 
@@ -180,12 +181,12 @@
             // 
             this.cbCidade.FormattingEnabled = true;
             this.cbCidade.Items.AddRange(new object[] {
-            "São Paulo",
-            "Rio de Janeiro",
+            "SP",
+            "RJ",
             "Bahia",
-            "Minas Gerais",
-            "Rio Grande do Sul",
-            "Paraná",
+            "MG",
+            "RS",
+            "Parana",
             "Pernambuco"});
             this.cbCidade.Location = new System.Drawing.Point(70, 250);
             this.cbCidade.Name = "cbCidade";
@@ -200,7 +201,7 @@
             this.Controls.Add(this.cbCidade);
             this.Controls.Add(this.lblCidade);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dtgPessoa);
             this.Controls.Add(this.btnLimparCampos);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.masketData);
@@ -214,7 +215,7 @@
             this.Controls.Add(this.lblTitulo);
             this.Name = "Pessoa";
             this.Text = "Cadastro de Pessoa";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgPessoa)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -233,7 +234,7 @@
         private System.Windows.Forms.MaskedTextBox masketData;
         private System.Windows.Forms.Button btnCadastrar;
         private System.Windows.Forms.Button btnLimparCampos;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dtgPessoa;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label lblCidade;
         private System.Windows.Forms.ComboBox cbCidade;

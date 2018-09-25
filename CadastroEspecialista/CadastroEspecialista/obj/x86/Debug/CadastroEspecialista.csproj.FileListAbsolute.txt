@@ -7,3 +7,5 @@ C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Deb
 C:\Users\Aluno\AppData\Local\Temporary Projects\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.pdb
 C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.exe
 C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.pdb

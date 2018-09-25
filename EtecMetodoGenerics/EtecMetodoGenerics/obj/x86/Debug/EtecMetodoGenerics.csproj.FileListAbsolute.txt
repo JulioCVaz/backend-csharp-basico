@@ -24,3 +24,5 @@ C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecM
 C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.exe
 C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.pdb
 C:\Users\Aluno\Desktop\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.CadastroDePedidos.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\EtecMetodoGenerics\EtecMetodoGenerics\obj\x86\Debug\EtecMetodoGenerics.pdb
