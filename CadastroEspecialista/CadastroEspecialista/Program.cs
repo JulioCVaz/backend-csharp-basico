@@ -15,7 +15,7 @@ namespace CadastroEspecialista
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new cadastroMedico());
+            Application.Run(new Menu());
         }
     }
 }

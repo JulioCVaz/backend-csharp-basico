@@ -17,29 +17,43 @@ namespace CadastroEspecialista
             InitializeComponent();
         }
 
-        private void CadastrarMedico(string nmMedico, string dsEndereco)
+        private void CadastrarPaciente()
         {
+            string nome = txtNome.Text;
+            string nasc = dtNasc.Text;
+            string cpf = txtCpf.Text;
+            string end = txtEnd.Text;
+            string cep = txtCep.Text;
+            string email = txtEmail.Text;
+
+
             SqlConnection conn = new SqlConnection();
+
+            conn.ConnectionString = "Password=info211;Persist Security Info=True;User ID=sa;Initial Catalog=consulta_medica;Data Source=LAB-07-01";
 
             conn.Open();
 
-            string InsertMedico = string.Concat("insert into tbMedico values ('", nmMedico, "', '", dsEndereco, "')");
+            string query = string.Concat("INSERT INTO clientes (nome_cliente,data_nasc,cpf,endereco,cep,email,funcionarioID) VALUES('",nome,"','",nasc,"','",cpf,"','",end,"','",cep,"','",email,"',", 2,");");
 
-            //insere texto de insert em nova consulta
-            SqlCommand comandaSQL = new SqlCommand(InsertMedico, conn);
+            SqlCommand execute = new SqlCommand(query, conn);
 
-            //Tecla F5
-            comandaSQL.ExecuteNonQuery();
+            execute.ExecuteNonQuery();
+
+
+            MessageBox.Show("Paciente Cadastrado com sucesso");
+
 
             conn.Close();
+        }
+
+        private void LimparCampos() { 
+            //TODO;
         }
 
      
         private void button1_Click(object sender, EventArgs e)
         {
-            CadastrarMedico(txtNome.Text, txtEndereco.Text);
-            LimparCampos();
-            MessageBox.Show("Registro cadastrado", "Etec ZL");
+            CadastrarPaciente();
         }
     }
 }

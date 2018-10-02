@@ -9,3 +9,10 @@ C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEs
 C:\Users\Julio Vaz\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.pdb
 C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.exe
 C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\bin\Debug\CadastroEspecialista.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\bin\Debug\CadastroEspecialista.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.cadastroMedico.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.Properties.Resources.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.consultaPaciente.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\CadastroEspecialista\CadastroEspecialista\obj\x86\Debug\CadastroEspecialista.Menu.resources
