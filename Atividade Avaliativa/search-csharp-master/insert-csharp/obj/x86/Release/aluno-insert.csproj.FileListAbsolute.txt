@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Release\insert-csharp.exe
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Release\insert-csharp.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Release\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Release\Classes.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\aluno-insert.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\insert_csharp.start.resources
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\insert_csharp.verAluno.resources
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\insert_csharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\aluno-insert.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\insert-csharp.exe
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Release\insert-csharp.pdb

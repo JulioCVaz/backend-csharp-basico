@@ -1,0 +1,12 @@
+C:\Users\Aluno\csharp-insert-task\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\csharp-insert-task\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\csharp-insert-task\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\csharp-insert-task\Classes\obj\Release\Classes.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\Classes\obj\Release\Classes.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\Classes\obj\Release\Classes.pdb

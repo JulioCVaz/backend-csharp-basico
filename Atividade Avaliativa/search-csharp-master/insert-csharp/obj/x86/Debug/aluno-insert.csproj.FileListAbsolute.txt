@@ -1,0 +1,24 @@
+C:\Users\Aluno\Desktop\csharp-insert-task-master\insert-csharp\obj\x86\Debug\insert-csharp.exe
+C:\Users\Aluno\Desktop\csharp-insert-task-master\insert-csharp\obj\x86\Debug\insert-csharp.pdb
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\insert-csharp.exe
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\insert-csharp.pdb
+C:\Users\Aluno\search-csharp\insert-csharp\bin\Debug\insert-csharp.exe
+C:\Users\Aluno\search-csharp\insert-csharp\bin\Debug\insert-csharp.pdb
+C:\Users\Aluno\search-csharp\insert-csharp\bin\Debug\Classes.dll
+C:\Users\Aluno\search-csharp\insert-csharp\bin\Debug\Classes.pdb
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\aluno-insert.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\insert_csharp.start.resources
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\insert_csharp.verAluno.resources
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\insert_csharp.Properties.Resources.resources
+C:\Users\Aluno\search-csharp\insert-csharp\obj\x86\Debug\aluno-insert.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\insert-csharp.exe
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\insert-csharp.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Debug\insert-csharp.exe
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Debug\insert-csharp.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Debug\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\bin\Debug\Classes.pdb
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\aluno-insert.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\insert_csharp.start.resources
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\insert_csharp.verAluno.resources
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\insert_csharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\search-csharp-master\insert-csharp\obj\x86\Debug\aluno-insert.csproj.GenerateResource.Cache

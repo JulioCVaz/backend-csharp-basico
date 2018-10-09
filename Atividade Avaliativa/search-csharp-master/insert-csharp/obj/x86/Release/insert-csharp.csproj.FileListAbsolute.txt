@@ -1,0 +1,32 @@
+C:\Users\Aluno\csharp-insert-task\insert-csharp\bin\Release\insert-csharp.exe
+C:\Users\Aluno\csharp-insert-task\insert-csharp\bin\Release\insert-csharp.pdb
+C:\Users\Aluno\csharp-insert-task\insert-csharp\bin\Release\Classes.dll
+C:\Users\Aluno\csharp-insert-task\insert-csharp\bin\Release\Classes.pdb
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.Form1.resources
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmCliente.resources
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmFuncionario.resources
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmPessoa.resources
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmPessoaDoc.resources
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.Properties.Resources.resources
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.csproj.GenerateResource.Cache
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.exe
+C:\Users\Aluno\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.Form1.resources
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmCliente.resources
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmFuncionario.resources
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmPessoa.resources
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.frmPessoaDoc.resources
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert_csharp.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.exe
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\bin\Release\insert-csharp.exe
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\bin\Release\insert-csharp.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\bin\Release\Classes.dll
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\bin\Release\Classes.pdb
+C:\Users\Aluno\Documents\GitHub\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.pdb
+G:\_2ETEC\DS II\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.exe
+G:\_2ETEC\DS II\csharp-insert-task\insert-csharp\obj\x86\Release\insert-csharp.pdb
+C:\Users\Aluno\Desktop\csharp-insert-task-master\insert-csharp\obj\x86\Release\insert-csharp.exe
+C:\Users\Aluno\Desktop\csharp-insert-task-master\insert-csharp\obj\x86\Release\insert-csharp.pdb

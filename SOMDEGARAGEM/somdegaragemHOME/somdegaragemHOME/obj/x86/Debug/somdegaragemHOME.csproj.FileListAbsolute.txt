@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\bin\Debug\somdegaragemHOME.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\bin\Debug\somdegaragemHOME.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\obj\x86\Debug\somdegaragemHOME.home.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\obj\x86\Debug\somdegaragemHOME.Properties.Resources.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\obj\x86\Debug\somdegaragemHOME.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\obj\x86\Debug\somdegaragemHOME.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\SOMDEGARAGEM\somdegaragemHOME\somdegaragemHOME\obj\x86\Debug\somdegaragemHOME.pdb
