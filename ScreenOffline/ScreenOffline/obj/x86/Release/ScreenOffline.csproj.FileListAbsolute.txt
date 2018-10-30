@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\bin\Release\ScreenOffline.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\bin\Release\ScreenOffline.pdb
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\obj\x86\Release\ScreenOffline.Form1.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\obj\x86\Release\ScreenOffline.Properties.Resources.resources
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\obj\x86\Release\ScreenOffline.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\obj\x86\Release\ScreenOffline.exe
+C:\Users\Aluno\Desktop\backend-csharp-basico\ScreenOffline\ScreenOffline\obj\x86\Release\ScreenOffline.pdb
